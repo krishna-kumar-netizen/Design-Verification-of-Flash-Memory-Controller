@@ -21,7 +21,7 @@
     2.Verified the design completely and found the design to be bug free and the
     design is now ready for tape out
 
-#### **Eda play ground link - [click here to open link](https://www.edaplayground.com/x/Jh4g) ** 
+#### Eda play ground link - [click here to open link](https://www.edaplayground.com/x/Jh4g)  
 
 ### *More details in report* 
 

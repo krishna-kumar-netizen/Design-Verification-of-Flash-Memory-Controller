@@ -9,11 +9,11 @@
     5. Monitor - Helps to monitor the signals that are important for testing. 
     7. Scoreboard - Compares the packects obtained from DUT with referecne meodel. Used in analysis of results and fault coverage. 
    
-2. Structure
+3. Structure
 
 ![Testbench Structure](https://github.com/krishna-kumar-netizen/Design-Verification-of-Flash-Memory-Controller/blob/main/documentation/structure.jpg)
 
-3. Types of tests - 
+4. Types of tests - 
 
     1. Fundamental tests. - Sequnetial test.
     
@@ -23,7 +23,7 @@
         3. layered tests
         4. Virtual sequential tests.
 
-3. Results Achieved 
+5. Results Achieved 
 
     1.Achieved 96% coverage on the design under test which indicates that most of
     our test cases have been exercised.

@@ -15,11 +15,11 @@
 
 3. Results Achieved 
 
-Achieved 96% coverage on the design under test which indicates that most of
-our test cases have been exercised.
+    1.Achieved 96% coverage on the design under test which indicates that most of
+    our test cases have been exercised.
 
-Verified the design completely and found the design to be bug free and the
-design is now ready for tape out
+    2. Verified the design completely and found the design to be bug free and the
+    design is now ready for tape out
 
 ### *More details in report* 
 

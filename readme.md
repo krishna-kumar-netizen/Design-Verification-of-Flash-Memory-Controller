@@ -18,7 +18,7 @@
     1.Achieved 96% coverage on the design under test which indicates that most of
     our test cases have been exercised.
     
-    https://github.com/krishna-kumar-netizen/Design-Verification-of-Flash-Memory-Controller/blob/main/documentation/structure.jpg2. Verified the design completely and found the design to be bug free and the
+    2.Verified the design completely and found the design to be bug free and the
     design is now ready for tape out
 
 ### *More details in report* 

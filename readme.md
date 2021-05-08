@@ -2,7 +2,7 @@
 
 1. Structured design verification of all the operations of NAND FLASH Memory Controller using **system verilog**. 
 
-    1. Generator - 
+    1. Generator - Stimulates the signals that drive the tests. 
     2. Driver - Converts the generated/triggered operation signals to DUT pin.
     3. transaction -  transaction of signals and operations between generator and driver.
     4. Interface - Converts the signals of Tester to DUT pins and vice versa. And also looks after the communication between DUT and monitor. 
@@ -12,6 +12,16 @@
 2. Structure
 
 ![Testbench Structure](https://github.com/krishna-kumar-netizen/Design-Verification-of-Flash-Memory-Controller/blob/main/documentation/structure.jpg)
+
+3. Types of tests - 
+
+    1. Fundamental tests. - Sequnetial test.
+    
+    3. Stress tests - 
+        1. Random tests 
+        2. Sequential tests 
+        3. layered tests
+        4. Virtual sequential tests.
 
 3. Results Achieved 
 
